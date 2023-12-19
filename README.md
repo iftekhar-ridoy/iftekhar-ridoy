@@ -1,12 +1,11 @@
 <h1 align="center"> Hello, I'm Md. Iftekharul Islam Ridoy <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px" > ! </h1>
-<h3 align="center">An enthusiastic and passionate Software Developer from Bangladesh ❤</h3>  
+<h3 align="center">A dedicated and passionate software developer hailing from Bangladesh.❤️</h3>  
 
 <div align="left">
 
   <a href="https://app.daily.dev/mdiftekharulislamridoy"><img src="https://api.daily.dev/devcards/38da663c68e0422ab8bd4b09945a14d6.png?r=tse" width="25%"  align="right" alt="Md. Iftekharul Islam Ridoy's Dev Card"/></a>
 
-  A self-taught, passionate and fast-learner full-stack developer 🎯 from Dhaka, 🇧🇩 🌎. Now I am working as a frontend engineer at SoftValley 👨‍🎓. I love to work with new technologies and developing web applications 🔭. Currently, I am learning how to improve the performance of progressive web applications for better user experience 🌱. I’m looking to apply my skills as part of a fast-paced, quality-driven team in order to build better experiences on the web and mobile app 🚀. 
-  
+  I am a self-driven full-stack developer residing in 🎯 Dhaka, 🇧🇩 🌎, and currently employed as a frontend engineer at SoftValley👨‍🎓. With expertise in utilizing the latest technologies for web application development🔭, I am committed to continuous improvement. My current priority is enhancing the performance of progressive web applications to elevate user satisfaction🌱. Actively seeking opportunities to contribute my skills to a dynamic and quality-focused team, I aim to play a significant role in advancing web and mobile application experiences🚀.
   <br />
   
 ![](https://visitor-badge.glitch.me/badge?page_id=iftekhar-ridoy.iftekhar-ridoy)
