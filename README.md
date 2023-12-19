@@ -88,13 +88,13 @@
 <br />
 
 ## 🏆 Github Status
+  
+<p><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api?username=iftekhar-ridoy&show_icons=true&locale=en&theme=radical&hide_border=true" alt="iftekhar-ridoy" /></p>
+<p><img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=iftekhar-ridoy&theme=radical" alt="iftekhar-ridoy" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=iftekhar-ridoy&theme=radical" alt="iftekhar-ridoy" /></p>
-<p>&nbsp<img align="right" src="https://github-readme-stats.vercel.app/api?username=iftekhar-ridoy&show_icons=true&locale=en&theme=radical&hide_border=true" alt="iftekhar-ridoy" /></p>
+<br />
 
-<br /> 
-
-<div align="center" style="margin-top: 30px">
+<div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=iftekhar-ridoy&theme=onestar&no-frame=true" alt="iftekhar-ridoy Profile Trophies" />
   </a>
