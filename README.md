@@ -28,7 +28,6 @@
 
 <img src="https://i.imgur.com/pWp0iDn.png" height="40" width="40"> 
 <img src="https://i.imgur.com/Riq5bIb.png" height="40" width="40">
-<img src="https://github.com/iftekhar-ridoy/iftekhar-ridoy/assets/69745615/0a886e6a-5bc1-401d-a9ef-21cb25936369"  height="40" width="40">
 <img src="https://i.imgur.com/Uivesm4.png" height="40" width="40">
 <img src="https://i.imgur.com/KUlechH.png" height="40" width="40">
 
