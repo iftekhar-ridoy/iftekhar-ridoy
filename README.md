@@ -9,7 +9,6 @@
   <br />
 
 - 💡 I like to explore new technologies and develop software solutions and quick hacks.
-- 🌱 Currently learning React-Native.
 - 👯 Looking to collaborate on MERN Stack projects with other passionate developers.
 - 📝 Please have a look at my [Resume](https://drive.google.com/file/d/13e_7Fh-Qc-XhN5IYsH_qHIWc9Cnq79C8/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
   
