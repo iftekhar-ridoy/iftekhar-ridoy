@@ -36,7 +36,6 @@
 <img src="https://i.imgur.com/VBd4aS3.png" height="40" width="40">
 <img src="https://i.imgur.com/JcUsLfc.png" height="40" width="40">
 <img src="https://i.imgur.com/wa305S7.png" height="40" width="40">
-<img src="https://i.imgur.com/wsUmcb5.png" height="40" width="40">
 <img src="https://i.imgur.com/3NP07nj.png" height="40" width="40">
 <img src="https://i.imgur.com/mH7zbFv.png" height="40" width="35">
 <img src="https://i.imgur.com/9Ulh3vX.png" height="40" width="40">
