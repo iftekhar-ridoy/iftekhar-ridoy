@@ -22,7 +22,7 @@
 [<img src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white">](https://wa.me/+8801647629311)
 <br />
 
-## 👨‍💻 Languages and Tools
+## Languages and Tools
 
 <div align="center">
 
@@ -66,7 +66,7 @@
 
 <br /> 
 
-## 🎀 Favourite Stack
+## Favourite Stack
 
 <div align="center">
 <img alt="React.js" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -78,4 +78,9 @@
 <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 </div>
 </div>
+
+
+## <b>Streak Stats</b>
+
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=iftekhar-ridoy&theme=tokyonight_duo" alt="iftekhar-ridoy" /></p>
 
